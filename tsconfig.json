@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es5",
+    "outDir": "./lib/",
+    "moduleResolution": "Node",
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true
+  },
+  "include": ["./src"]
+}

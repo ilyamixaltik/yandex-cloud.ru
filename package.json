@@ -1,6 +1,6 @@
 {
   "name": "yandex-cloud.ru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yandex-cloud.ru is one of the simplest and most efficient libraries for the \"Yandex cloud\" service.",
   "main": "src/index.ts",
   "scripts": {
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/ilyamixaltik/yandex-cloud.ru/issues"
   },
-  "homepage": "https://github.com/ilyamixaltik/yandex-cloud.ru#readme"
+  "homepage": "https://github.com/ilyamixaltik/yandex-cloud.ru#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1071.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
