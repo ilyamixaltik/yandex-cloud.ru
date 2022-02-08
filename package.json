@@ -1,0 +1,28 @@
+{
+  "name": "yandex-cloud.ru",
+  "version": "1.0.0",
+  "description": "yandex-cloud.ru is one of the simplest and most efficient libraries for the \"Yandex cloud\" service.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyamixaltik/yandex-cloud.ru.git"
+  },
+  "keywords": [
+    "yandex",
+    "aws",
+    "s3",
+    "cloud",
+    "bucket",
+    "yandex-cloud",
+    "object-storage"
+  ],
+  "author": "Ilya Mixaltik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyamixaltik/yandex-cloud.ru/issues"
+  },
+  "homepage": "https://github.com/ilyamixaltik/yandex-cloud.ru#readme"
+}
